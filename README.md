@@ -14,3 +14,4 @@ Arrays & Hashing:
 
 Two pointers:
 1. https://leetcode.com/problems/valid-palindrome/ &#x1F4D7;
+2. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ &#x1F4D9;
