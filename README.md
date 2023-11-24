@@ -11,3 +11,6 @@ Arrays & Hashing:
 6. https://leetcode.com/problems/product-of-array-except-self/ &#x1F4D9;
 7. https://leetcode.com/problems/valid-sudoku/ &#x1F4D9;
 8. https://leetcode.com/problems/longest-consecutive-sequence/ &#x1F4D9;
+
+Two pointers:
+1. https://leetcode.com/problems/valid-palindrome/ &#x1F4D7;
