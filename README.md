@@ -17,3 +17,6 @@ Two pointers:
 2. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ &#x1F4D9;
 3. https://leetcode.com/problems/3sum/ &#x1F4D9;
 4. https://leetcode.com/problems/container-with-most-water/ &#x1F4D9;
+
+Stack:
+1. https://leetcode.com/problems/valid-parentheses &#x1F4D7;
