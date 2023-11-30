@@ -24,3 +24,6 @@ Stack:
 3. https://leetcode.com/problems/evaluate-reverse-polish-notation/ &#x1F4D9;
 4. https://leetcode.com/problems/daily-temperatures/ &#x1F4D9;
 5. https://leetcode.com/problems/car-fleet/  &#x1F4D9;
+
+Binary search:
+1. https://leetcode.com/problems/binary-search/ &#x1F4D7;
