@@ -28,4 +28,4 @@ Stack:
 Binary search:
 1. https://leetcode.com/problems/binary-search/ &#x1F4D7;
 2. https://leetcode.com/problems/search-a-2d-matrix/ &#x1F4D9;
-3. 
+3. https://leetcode.com/problems/koko-eating-bananas/ &#x1F4D9;
