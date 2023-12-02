@@ -30,3 +30,4 @@ Binary search:
 2. https://leetcode.com/problems/search-a-2d-matrix/ &#x1F4D9;
 3. https://leetcode.com/problems/koko-eating-bananas/ &#x1F4D9;
 4. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ &#x1F4D9;
+5. https://leetcode.com/problems/search-in-rotated-sorted-array/ &#x1F4D9;
