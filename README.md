@@ -31,3 +31,4 @@ Binary search:
 3. https://leetcode.com/problems/koko-eating-bananas/ &#x1F4D9;
 4. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ &#x1F4D9;
 5. https://leetcode.com/problems/search-in-rotated-sorted-array/ &#x1F4D9;
+6. https://leetcode.com/problems/time-based-key-value-store/ &#x1F4D9;
