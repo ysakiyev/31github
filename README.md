@@ -32,3 +32,6 @@ Binary search:
 4. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ &#x1F4D9;
 5. https://leetcode.com/problems/search-in-rotated-sorted-array/ &#x1F4D9;
 6. https://leetcode.com/problems/time-based-key-value-store/ &#x1F4D9;
+
+Linked List:
+1. https://leetcode.com/problems/reverse-linked-list/ &#x1F4D7;
