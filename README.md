@@ -35,3 +35,4 @@ Binary search:
 
 Linked List:
 1. https://leetcode.com/problems/reverse-linked-list/ &#x1F4D7;
+2. https://leetcode.com/problems/merge-two-sorted-lists/ &#x1F4D7;
