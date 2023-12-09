@@ -44,3 +44,4 @@ Linked List:
 
 Trees:
 1. https://leetcode.com/problems/invert-binary-tree/ &#x1F4D7;
+2. https://leetcode.com/problems/maximum-depth-of-binary-tree/ &#x1F4D7;
