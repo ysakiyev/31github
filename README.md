@@ -47,3 +47,4 @@ Trees:
 2. https://leetcode.com/problems/maximum-depth-of-binary-tree/ &#x1F4D7;
 3. https://leetcode.com/problems/binary-tree-level-order-traversal/ &#x1F4D9;
 4. https://leetcode.com/problems/average-of-levels-in-binary-tree/ &#x1F4D7;
+5. https://leetcode.com/problems/same-tree/ &#x1F4D7;
