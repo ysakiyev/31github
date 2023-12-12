@@ -48,3 +48,6 @@ Trees:
 3. https://leetcode.com/problems/binary-tree-level-order-traversal/ &#x1F4D9;
 4. https://leetcode.com/problems/average-of-levels-in-binary-tree/ &#x1F4D7;
 5. https://leetcode.com/problems/same-tree/ &#x1F4D7;
+
+Graphs:
+1. https://leetcode.com/problems/number-of-islands/ &#x1F4D9;
