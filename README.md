@@ -51,3 +51,4 @@ Trees:
 
 Graphs:
 1. https://leetcode.com/problems/number-of-islands/ &#x1F4D9;
+2. https://leetcode.com/problems/max-area-of-island/ &#x1F4D9;
