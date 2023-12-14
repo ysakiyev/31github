@@ -52,3 +52,5 @@ Trees:
 Graphs:
 1. https://leetcode.com/problems/number-of-islands/ &#x1F4D9;
 2. https://leetcode.com/problems/max-area-of-island/ &#x1F4D9;
+3. https://leetcode.com/problems/clone-graph/ &#x1F4D9;
+4. https://leetcode.com/problems/rotting-oranges/ &#x1F4D9;
