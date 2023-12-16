@@ -55,3 +55,4 @@ Graphs:
 3. https://leetcode.com/problems/clone-graph/ &#x1F4D9;
 4. https://leetcode.com/problems/rotting-oranges/ &#x1F4D9;
 5. https://leetcode.com/problems/surrounded-regions/ &#x1F4D9;
+6. https://leetcode.com/problems/course-schedule/ &#x1F4D9;
