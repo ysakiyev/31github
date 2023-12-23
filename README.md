@@ -68,3 +68,4 @@ Backtracking:
 2. https://leetcode.com/problems/subsets-ii/ &#x1F4D9;
 3. https://leetcode.com/problems/permutations/ &#x1F4D9;
 4. https://leetcode.com/problems/combination-sum/ &#x1F4D9;
+5. https://leetcode.com/problems/word-search/ &#x1F4D9;
