@@ -69,3 +69,4 @@ Backtracking:
 3. https://leetcode.com/problems/permutations/ &#x1F4D9;
 4. https://leetcode.com/problems/combination-sum/ &#x1F4D9;
 5. https://leetcode.com/problems/word-search/ &#x1F4D9;
+6. https://leetcode.com/problems/letter-combinations-of-a-phone-number/ &#x1F4D9;
