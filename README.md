@@ -18,6 +18,7 @@ Two pointers:
 3. https://leetcode.com/problems/3sum/ &#x1F4D9;
 4. https://leetcode.com/problems/container-with-most-water/ &#x1F4D9;
 5. https://leetcode.com/problems/merge-sorted-array/ &#x1F4D7; (practice)
+6. https://leetcode.com/problems/rotate-array/ &#x1F4D7;  (practice)
 
 Stack:
 1. https://leetcode.com/problems/valid-parentheses &#x1F4D7;
