@@ -44,6 +44,7 @@ Linked List:
 5. https://leetcode.com/problems/copy-list-with-random-pointer/  &#x1F4D9;
 6. https://leetcode.com/problems/add-two-numbers/  &#x1F4D9;
 7. https://leetcode.com/problems/linked-list-cycle/ &#x1F4D7;
+8. https://leetcode.com/problems/swap-nodes-in-pairs/ &#x1F4D9; (practice)
 
 Trees:
 1. https://leetcode.com/problems/invert-binary-tree/ &#x1F4D7;
