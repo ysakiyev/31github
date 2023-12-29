@@ -76,6 +76,7 @@ Backtracking:
 4. https://leetcode.com/problems/combination-sum/ &#x1F4D9;
 5. https://leetcode.com/problems/word-search/ &#x1F4D9;
 6. https://leetcode.com/problems/letter-combinations-of-a-phone-number/ &#x1F4D9;
+7. https://leetcode.com/problems/generate-parentheses/ &#x1F4D9; (practice)
 
 Sliding window:
 1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ &#x1F4D7;
