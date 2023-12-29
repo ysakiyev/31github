@@ -87,6 +87,7 @@ Greedy:
 1. https://leetcode.com/problems/maximum-subarray &#x1F4D9;
 2. https://leetcode.com/problems/maximum-sum-circular-subarray/ &#x1F4D9; (practice)
 3. https://leetcode.com/problems/jump-game/ &#x1F4D9;
+4. https://leetcode.com/problems/jump-game-ii &#x1F4D9;
 
 Intervals:
 1. https://leetcode.com/problems/merge-intervals &#x1F4D9;
