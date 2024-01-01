@@ -74,6 +74,7 @@ Tries:
 Heaps:
 1. https://leetcode.com/problems/kth-largest-element-in-a-stream &#x1F4D7;
 2. https://leetcode.com/problems/last-stone-weight/ &#x1F4D7;
+3. https://leetcode.com/problems/k-closest-points-to-origin/ &#x1F4D9;
 
 Backtracking:
 1. https://leetcode.com/problems/subsets &#x1F4D9;
