@@ -71,6 +71,9 @@ Tries:
 1. https://leetcode.com/problems/implement-trie-prefix-tree/ &#x1F4D9;
 2. https://leetcode.com/problems/design-add-and-search-words-data-structure/ &#x1F4D9;
 
+Heaps:
+1. https://leetcode.com/problems/kth-largest-element-in-a-stream &#x1F4D7;
+
 Backtracking:
 1. https://leetcode.com/problems/subsets &#x1F4D9;
 2. https://leetcode.com/problems/subsets-ii/ &#x1F4D9;
@@ -95,3 +98,4 @@ Intervals:
 2. https://leetcode.com/problems/insert-interval/ &#x1F4D9;
 3. https://leetcode.com/problems/non-overlapping-intervals/ &#x1F4D9; 
 4. https://leetcode.com/problems/meeting-rooms/ &#x1F4D7;
+
