@@ -93,3 +93,4 @@ Greedy:
 Intervals:
 1. https://leetcode.com/problems/merge-intervals &#x1F4D9;
 2. https://leetcode.com/problems/insert-interval/ &#x1F4D9;
+3. https://leetcode.com/problems/non-overlapping-intervals/ &#x1F4D9; 
