@@ -102,3 +102,5 @@ Intervals:
 3. https://leetcode.com/problems/non-overlapping-intervals/ &#x1F4D9; 
 4. https://leetcode.com/problems/meeting-rooms/ &#x1F4D7;
 
+1D DP: 
+1. https://leetcode.com/problems/climbing-stairs/ &#x1F4D7;
