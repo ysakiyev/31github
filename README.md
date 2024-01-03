@@ -90,6 +90,7 @@ Sliding window:
 1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ &#x1F4D7;
 2. https://leetcode.com/problems/longest-substring-without-repeating-characters/ &#x1F4D9;
 3. https://leetcode.com/problems/longest-repeating-character-replacement/ &#x1F4D9;
+4. https://leetcode.com/problems/permutation-in-string/ &#x1F4D9;
 
 Greedy:
 1. https://leetcode.com/problems/maximum-subarray &#x1F4D9;
