@@ -66,6 +66,7 @@ Graphs:
 6. https://leetcode.com/problems/course-schedule/ &#x1F4D9;
 7. https://leetcode.com/problems/course-schedule-ii/ &#x1F4D9;
 8. https://leetcode.com/problems/pacific-atlantic-water-flow/ &#x1F4D9;
+9. https://leetcode.com/problems/walls-and-gates/ &#x1F4D9;
 
 Tries:
 1. https://leetcode.com/problems/implement-trie-prefix-tree/ &#x1F4D9;
