@@ -58,6 +58,7 @@ Trees:
 5. https://leetcode.com/problems/same-tree/ &#x1F4D7;
 6. https://leetcode.com/problems/diameter-of-binary-tree &#x1F4D7;
 7. https://leetcode.com/problems/balanced-binary-tree/ &#x1F4D7;
+8. https://leetcode.com/problems/subtree-of-another-tree/ &#x1F4D9;
 
 Graphs:
 1. https://leetcode.com/problems/number-of-islands/ &#x1F4D9;
