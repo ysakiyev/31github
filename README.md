@@ -14,6 +14,7 @@ Arrays & Hashing:
 9. https://leetcode.com/problems/unique-email-addresses/ &#x1F4D7; (practice)
 10. https://leetcode.com/problems/length-of-last-word/ &#x1F4D7; (practice)
 11. https://leetcode.com/problems/encode-and-decode-strings/ &#x1F4D9;
+12. https://leetcode.com/problems/sort-colors/ &#x1F4D9; (practice)
 
 Two pointers:
 1. https://leetcode.com/problems/valid-palindrome/ &#x1F4D7;
